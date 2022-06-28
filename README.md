@@ -1,5 +1,7 @@
 # WindTurbine-EisDetection
 Supplementary material for the work "Detecting ice on wind turbine rotor blades: Towards deep transfer learning for image data"
+-IMAGE
+A software code to predict ice on images of rotor blades.
 
 ## Download and use of the repository:
 To download this repository and its submodules use
@@ -9,7 +11,7 @@ git clone --recurse-submodules https://github.com/malvela/WindTurbine-EisDetecti
 ## Individual files and functionality:
 This software involves a couple of .m files for predicting ice on rotor blades:
 
-    -
+    -TODO
     -
     -
     
