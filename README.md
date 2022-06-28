@@ -1,4 +1,4 @@
-# Wind Turbine Eis Detection: An approach with deep transfer learning for image data
+# Wind turbine eis detection: An approach with deep transfer learning for image data
 Supplementary material for the work "Detecting ice on wind turbine rotor blades: Towards deep transfer learning for image data"
 
     -IMAGE
