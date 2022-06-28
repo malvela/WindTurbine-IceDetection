@@ -6,7 +6,7 @@ A software code to predict ice on images of rotor blades.
 ## Download and use of the repository:
 To download this repository and its submodules use
 
-git clone --recurse-submodules https://github.com/malvela/WindTurbine-EisDetection.git
+    git clone --recurse-submodules https://github.com/malvela/WindTurbine-EisDetection.git
 
 ## Individual files and functionality:
 This software involves a couple of .m files for predicting ice on rotor blades:
