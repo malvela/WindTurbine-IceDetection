@@ -1,8 +1,8 @@
 # Wind turbine ice detection: An approach with deep transfer learning for image data
 Supplementary material for the work "Detecting ice on wind turbine rotor blades: Towards deep transfer learning for image data"
 
-    -IMAGE
-    -
+    - convert_model.py -> converts a .h5 model to a tensorrt model format
+    - transfer_learning.py -> Training and evaluation of the presented models
 A software code to predict ice on images of rotor blades.
 
 ## Download and use of the repository:
