@@ -3,7 +3,7 @@ Supplementary material for the work "Detecting ice on wind turbine rotor blades:
 
 ![grafik](https://user-images.githubusercontent.com/68553692/176689481-5fc86870-d7ed-4ec5-bb98-7abaf9564dc4.png)
 
-A software code to predict ice on images of rotor blades.
+A software code to predict blade icing on images of rotor blades using resource-constrained devices.
 
 ## Download and use of the repository:
 To download this repository and its submodules use
