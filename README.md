@@ -1,6 +1,7 @@
 # Wind turbine ice detection: An approach with deep transfer learning for image data
 Supplementary material for the work "Detecting ice on wind turbine rotor blades: Towards deep transfer learning for image data"
 
+![grafik](https://user-images.githubusercontent.com/68553692/176689481-5fc86870-d7ed-4ec5-bb98-7abaf9564dc4.png)
 
 A software code to predict ice on images of rotor blades.
 
