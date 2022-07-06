@@ -15,7 +15,7 @@ This software involves pyhton files for predicting ice on wind turbine rotor bla
 
     - Convert_model.py: It converts a h5 model to a tensorrt model format.
     - Transfer_learning.py: Training and evaluation of the presented models.
-    - Test_image.py: For live measurements.   
+    - Test_camera.py: For live measurements.   
 
 ## Cite as:
 
