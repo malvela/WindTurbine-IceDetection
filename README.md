@@ -3,7 +3,7 @@ Supplementary material for the work "Detecting ice on wind turbine rotor blades:
 
 <img src="https://user-images.githubusercontent.com/68553692/176689481-5fc86870-d7ed-4ec5-bb98-7abaf9564dc4.png" width="400" height="300" />
 
-A software code to predict blade icing on images of rotor blades using resource-constrained devices.
+A software code based on tiny ML for predicting blade icing on images of rotor blades using resource-constrained devices.
 
 ## Download and use of the repository:
 To download this repository and its submodules use
@@ -11,7 +11,7 @@ To download this repository and its submodules use
     git clone --recurse-submodules https://github.com/malvela/WindTurbine-EisDetection.git
 
 ## Individual files and functionality:
-This software involves pyhton files for predicting ice on wind turbine rotor blades:
+This software involves pyhton files for predicting ice on wind turbine rotor blades using a tiny computer:
 
     - Convert_model.py: It converts a h5 model to a tensorrt model format.
     - Transfer_learning.py: Training and evaluation of the presented models.
