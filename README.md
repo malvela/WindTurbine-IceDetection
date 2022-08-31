@@ -8,7 +8,7 @@ A software code based on tiny DL models for predicting blade icing on images of 
 ## Download and use of the repository:
 To download this repository and its submodules use
 
-    git clone --recurse-submodules https://github.com/malvela/WindTurbine-EisDetection.git
+    git clone --recurse-submodules https://github.com/malvela/WindTurbine-IceDetection.git
 
 ## Individual files and functionality:
 This software involves pyhton files for predicting ice on wind turbine rotor blades using a tiny computer:
