@@ -21,7 +21,7 @@ This software involves pyhton files for predicting ice on wind turbine rotor bla
 
 ## Cite as:
 
-If you are using this software in your academic work please cite it as Alvela Nieto, M.T., Gelbhardt, H., Ohlendorf, J-H., Thoben, K.-D. (2023). Detecting Ice on Wind Turbine Rotor Blades: Towards Deep Transfer Learning for Image Data. In: Advances in System-Integrated Intelligence. SYSINT 2022. Lecture Notes in Networks and Systems, vol 546. Springer, Cham. https://doi.org/10.1007/978-3-031-16281-7_54
+If you are using this software in your academic work please cite it as Alvela Nieto, M.T., Gelbhardt, H., Ohlendorf, J-H., Thoben, K.-D. (2022). Detecting Ice on Wind Turbine Rotor Blades: Towards Deep Transfer Learning for Image Data. In: Advances in System-Integrated Intelligence. SYSINT 2022. Lecture Notes in Networks and Systems, vol 546. Springer, Cham. https://doi.org/10.1007/978-3-031-16281-7_54
 
 ## License:
 
